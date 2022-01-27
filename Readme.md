@@ -1,23 +1,23 @@
 # Pour démarrer
 
 Pour démarrer ces exercices, l'utilisation de l'IDE IntelliJ est
-recommandée, avec les plugins `Scala` et `SBT Executor`.
+recommandée, avec le plugin `Scala`.
 
-Pour installer ces deux plugins dans IntelliJ:
+Pour installer ce plugin dans IntelliJ:
 ```
 File > Settings > Plugins
 ```
-puis utiliser la barre de recherche pour trouver et installer les
-plugins.
+puis utiliser la barre de recherche pour trouver et installer le
+plugin.
 
-Ensuite, ouvrir un projet
+Ensuite, à après cloné ce dépôt Git, ouvrir un projet dans l'IDE
 ```
 File > Open
 ```
-et sélectionner le dossier `tp`. Une fois le dossier ouvert, SBT le
-configure automatiquement. Exécutez `TestInit.scala` dans le dossier
-`src/test/scala` afin de vérifier que le projet est correctement
-configuré.
+et sélectionner le fichier `tp/build.sbt`, puis confirmer `Open as
+project` et attendre que l'IDE configure automatiquement le projet.
+Exécutez `TestInit.scala` dans le dossier `src/test/scala` afin de
+vérifier que le projet est correctement configuré.
 
 # Contenu
 
