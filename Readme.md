@@ -7,15 +7,15 @@ Pour installer ce plugin dans IntelliJ:
 ```
 File > Settings > Plugins
 ```
-puis utiliser la barre de recherche pour trouver et installer le
+puis utilisez la barre de recherche pour trouver et installer le
 plugin.
 
-Ensuite, à après cloné ce dépôt Git, ouvrir un projet dans l'IDE
+Ensuite, après avoir cloné ce dépôt Git, ouvrez un projet dans l'IDE
 ```
 File > Open
 ```
-et sélectionner le fichier `tp/build.sbt`, puis confirmer `Open as
-project` et attendre que l'IDE configure automatiquement le projet.
+et sélectionnez le fichier `tp/build.sbt`, puis confirmez `Open as
+project` et attendez que l'IDE configure automatiquement le projet.
 Exécutez `TestInit.scala` dans le dossier `src/test/scala` afin de
 vérifier que le projet est correctement configuré.
 
